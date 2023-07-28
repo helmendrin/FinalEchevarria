@@ -1,6 +1,6 @@
 from django.db import models
-from Menu import Menu
-from Pedidos import Pedido
+from Menu.models import Menu
+from Pedidos.models import Pedido
 
 
 class PedidosAbierto(models.Model):

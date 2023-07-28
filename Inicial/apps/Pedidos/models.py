@@ -1,6 +1,7 @@
 from django.db import models
-from Menu import Menu
-git 
+from Menu.models import Menu
+
+
 # Create your models here.
 class Pedido(models.Model):
     mesa = models.CharField(max_length=50)  # quisiera que quien toma el pedido pueda ingresar el nombre ( x ejemplo, maestra Cami 12hs, comisaria Raul 14 en punto)

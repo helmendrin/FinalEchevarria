@@ -4,8 +4,8 @@ Nombre el Proyecto:
 Sobre el Autor:
 
 Descripción del Proyecto:
-    Usuario:
-    Contraseña:
+    Usuario: admin
+    Contraseña: 123
 
 Parte Tecnica 
 
